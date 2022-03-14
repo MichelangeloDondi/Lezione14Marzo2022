@@ -6,7 +6,7 @@ print(stato_iniziale)
 def stato_successivo(stato_temporaneo):
     return ""
     
-
+###
 def write_list(lst):
     for item in lst:
         print str(item) 
