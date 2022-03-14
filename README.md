@@ -1,2 +1,4 @@
 # Lezione14Marzo2022
 Esercitazione Pi Day
+def stato_iniziale():
+    return "...............0..............."
