@@ -7,7 +7,7 @@ print(stato_iniziale)
 def stato_successivo(stato_temporaneo):
     return ""
     
-###
+### Vogliamo stampare la lista 
 def write_list(lst):
     for item in lst:
         print str(item) 
