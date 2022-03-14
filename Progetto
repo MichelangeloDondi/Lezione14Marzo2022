@@ -1,2 +1,16 @@
-def stato_iniziale():
-    return "...............0..............."
+stato_iniziale = [".",".",".",".",".","0",".",".",".",".",".","."]
+stato_temporaneo = stato_iniziale
+
+print(stato_iniziale)
+
+def stato_successivo(stato_temporaneo):
+    return ""
+    
+
+def write_list(lst):
+    for item in lst:
+        print str(item) 
+   
+    
+print(stato_temporaneo)
+write_list(stato_temporaneo)
