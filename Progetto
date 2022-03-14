@@ -1,3 +1,4 @@
+### Costruiamo uno stato iniziale. Abbiamo scelto di usare una lista di lunghezza 12
 stato_iniziale = [".",".",".",".",".","0",".",".",".",".",".","."]
 stato_temporaneo = stato_iniziale
 
